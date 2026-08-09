@@ -1,0 +1,20 @@
+[33mcommit 1a2f01170182f2d0f70b1d982973b4084044dc26[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: a2f5db0 965f1b8
+Author: Glyciane Silva Santos <glyciane1@gmail.com>
+Date:   Sat Aug 8 22:48:40 2026 -0300
+
+    Merge pull request #1 from glyciane/projeto-inicial
+    
+    Adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit 965f1b88721c688b1bba5eddb92b4f054128650a[m[33m ([m[1;31morigin/projeto-inicial[m[33m, [m[1;32mprojeto-inicial[m[33m)[m
+Author: Glyciane Santos <glyciane1@gmail.com>
+Date:   Sat Aug 8 22:46:44 2026 -0300
+
+    Adicionei os arquivos iniciais e o primeiro teste de login
+
+[33mcommit a2f5db09b32a98b32edf38f322c3d35182794bab[m
+Author: Glyciane Silva Santos <glyciane1@gmail.com>
+Date:   Sat Aug 8 21:35:42 2026 -0300
+
+    Initial commit
