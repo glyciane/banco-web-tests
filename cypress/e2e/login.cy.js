@@ -12,7 +12,7 @@ describe('template spec', () => {
     cy.contains('h4', 'Realizar Transferência').should('be.visible')
   })
 
-  it.only('Login com dados inválidos deve apresentar mensagem de erro', () => {
+  it('Login com dados inválidos deve apresentar mensagem de erro', () => {
     //Arrange
     cy.visit('http://localhost:4000/')
 
