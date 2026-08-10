@@ -5,7 +5,7 @@ describe('template spec', () => {
     //cy.screenshot('apos-visitar-pagina')
   })
   
-  it.only('Login com dados válidos deve permitir entrada no sistema', () => {
+  it('Login com dados válidos deve permitir entrada no sistema', () => {
 
     //Act
     cy.get('#username').click().type('julio.lima')
